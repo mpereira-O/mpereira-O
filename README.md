@@ -43,11 +43,9 @@
 <h3 align="left">🔥 Estatísticas</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mpereira-O/mpereira-O/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="250" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=mpereira-O&locale=pt_BR&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-  <img src="https://raw.githubusercontent.com/mpereira-O/mpereira-O/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>graph"  />
-  <img src="https://raw.githubusercontent.com/mpereira-O/mpereira-O/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mpereira-O&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=pt-br&hide_border=false" height="195" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=mpereira-O&locale=pt_BR&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="195" alt="streak graph" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpereira-O&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br&hide_border=false" height="165" alt="languages graph" />
 </div>
-
 ###
